@@ -389,7 +389,7 @@ function Game {
     Write-Host  "                                                                                                          "
     Write-Host  "##########################################################################################################"
     Write-Host  "#                                                                                                        #"
-    Write-Host  "# Tak for du har spillet Beta V 0.1 af Danylo Abildgaard                                                 #"
+    Write-Host  "# Tak for du har spillet Beta V 0.1 af Daniel Abildgaard                                                 #"
     Write-Host  "# Der vil komme mere i fremtiden når jeg får mere tid                                                    #"
     Write-Host  "#                                                                                                        #"
     Write-Host  "##########################################################################################################"
